@@ -1,0 +1,5 @@
+model,September,December,March,Backtest avg,Final Test
+Naive,250.4,600.8,351.0,400.7,324.6
+Seasonal Naive,409.8,500.9,595.6,502.1,547.1
+LightGBM,264.5,646.7,329.9,413.7,293.1
+LightGBM + earthquake flag,270.2,623.0,330.5,407.9,292.0

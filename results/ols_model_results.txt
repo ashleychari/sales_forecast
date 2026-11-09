@@ -1,0 +1,4 @@
+Elasticity (log_promo coefficient): 0.2840
+95% CI: 0.0125 to 0.5555
+A 10% increase in promotion activity is associated with a 2.7% increase in sales (95% CI: 0.1% to 5.4%)
+Rows used: 5808, families: 33, weeks: 176
